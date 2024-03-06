@@ -3,5 +3,5 @@ exports.home = async(req , res)=>{
 }
 
 exports.test = async(req , res)=>{
-    res.send(`This is a Test Page`)
+    res.send(`This is Auto deploy Page`)
 }
